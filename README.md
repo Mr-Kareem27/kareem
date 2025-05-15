@@ -1,4 +1,4 @@
-# Personal Portfolio – Kareem Joseph Mkiya
+# Personal Portfolio – Karimu Joseph Mkiya
 
 This is a fully functional, modern **personal portfolio website** created as part of the **CP 221 Practical Assignment One** at the University of Dodoma. The website demonstrates web development best practices using **HTML5**, **CSS3**, and **JavaScript**, with a **unique hybrid of glassmorphism and neumorphism** design aesthetics.
 
@@ -52,14 +52,14 @@ This is a fully functional, modern **personal portfolio website** created as par
  Form validation across devices | Used regex for input checks & JS error alerts |
  Smooth interactivity | Added DOM event listeners and visual transitions |
 ## Live Demo
-You can view my portfolio website live at: (https://mosatog1.github.io/portfolioc/)
+You can view my portfolio website live at: (https://Mr-Kareem27.github.io/kareem/)
 ## Conclusion
 This project reflects my skills and understanding of web development fundamentals. I look forward to enhancing it further with more features and projects in the future.
 
 
 ##  Credits
 
-Created by **Kareem Joseph Mkiya**  
+Created by **Karimu Joseph Mkiya**  
 For **CP 221 – Internet Programming and Application**  
 **University of Dodoma**  
 **Academic Year: 2025**
